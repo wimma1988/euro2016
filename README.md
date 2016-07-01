@@ -7,7 +7,7 @@
 #### Gruppe A
 |                           | Spiele | Siege | Unentschieden | Niederlagen | Tore | Gegentore | Tordifferenz | Punkte |
 | ------------------------- | ------ | ----- | ------------- | ----------- | ---- | --------- | ------------ | ------ |
-| **Frankreich**            |      0 |     0 |             0 |           0 |    0 |         0 |            0 |  **0** |
+| **Frankreich**            |      3 |     2 |             1 |           0 |    4 |         1 |            3 |  **7** |
 | **Schweiz**               |      0 |     0 |             0 |           0 |    0 |         0 |            0 |  **0** |
 | ~~Albanien~~              |      0 |     0 |             0 |           0 |    0 |         0 |            0 |  **0** |
 | ~~Rumänien~~              |      0 |     0 |             0 |           0 |    0 |         0 |            0 |  **0** |
