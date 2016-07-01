@@ -23,7 +23,7 @@
 #### Gruppe C
 |                           | Spiele | Siege | Unentschieden | Niederlagen | Tore | Gegentore | Tordifferenz | Punkte |
 | ------------------------- | ------ | ----- | ------------- | ----------- | ---- | --------- | ------------ | ------ |
-| **Deutschland**           |      0 |     0 |             0 |           0 |    0 |         0 |            0 |  **0** |
+| **Deutschland**           |      3 |     2 |             1 |           0 |    3 |         0 |            3 |  **7** |
 | **Polen**                 |      0 |     0 |             0 |           0 |    0 |         0 |            0 |  **0** |
 | **Nordirland**            |      0 |     0 |             0 |           0 |    0 |         0 |            0 |  **0** |
 | ~~Ukraine~~               |      0 |     0 |             0 |           0 |    0 |         0 |            0 |  **0** |
